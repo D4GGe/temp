@@ -14,6 +14,8 @@ switch ($_GET["function"]) {
 }
 
 
+
+
 function add_humidity(){
 $dbtype     = "mariadb";
 $dbhost     = "localhost";
